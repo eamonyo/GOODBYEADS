@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-04-15 17:33:14（北京时间）
+! Version: 2025-04-15 19:15:58（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 107651
+! Total count: 107667
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -18179,7 +18179,6 @@
 ||8990.79j68qav2.com^
 ||8990.reminews.com^
 ||8992bfef5b.3575e2d4e6.com^
-||89df7388bf.com^
 ||8a2f46cd46.05fa754f24.com^
 ||8a43d8c952.b0b48016c5.com^
 ||8a45f0e0a6.579eede9ca.com^
@@ -19029,6 +19028,7 @@
 ||9d87b35397.com^
 ||9dccbda825.com^
 ||9dmnv9z0gtoh.com^
+||9e11ec3a56.com^
 ||9e14a85177.8433f52821.com^
 ||9e3810a418.com^
 ||9eb10b7a3d04a.com^
@@ -29272,6 +29272,7 @@
 ||apd-pcdnwxlogin.teg.tencent-cloud.net^
 ||apd-pcdnwxnat.teg.tencent-cloud.net^
 ||apd-pcdnwxstat.teg.tencent-cloud.net^
+||apdcekrulrpjd.online^
 ||ape-tagit.timeinc.net^
 ||ape.mfj.se^
 ||ape.pytch.co.uk^
@@ -33535,6 +33536,7 @@
 ||bieuc.icu^
 ||bifnosblfdpslg.xyz^
 ||bifrufhci.com^
+||bifszaojpkuq.com^
 ||big-loads.com^
 ||big.az/unvanexp.php^
 ||bigamybigot.space^
@@ -36108,6 +36110,7 @@
 ||ccc-x.jd.com^
 ||ccc.aqualink.tokyo^
 ||ccc.x.jd.com^
+||ccc9c93083.com^
 ||ccccc66kkkkk.com^
 ||ccccc67kkkkk.com^
 ||ccccc78kkkkk.com^
@@ -50773,7 +50776,6 @@
 ||galagosalmon.top^
 ||galahsflamant.top^
 ||galas3xy.com^
-||galaxien.com^
 ||galaxydiminution.com^
 ||galaxypush.com^
 ||galeaeevovae.com^
@@ -51021,6 +51023,7 @@
 ||gdfp.gifshow.com^
 ||gdfsrd.itslighting.kr^
 ||gdg.gardnerdenver.com^
+||gdihvgebdej.com^
 ||gdktgkjfyvd.xyz^
 ||gdl.i9dhjx.ru^
 ||gdl.zmqdez.ru^
@@ -53767,6 +53770,7 @@
 ||hauforip.net^
 ||haughtydistinct.com^
 ||haughtysafety.com^
+||haugloosigliwha.net^
 ||hauhws.asgoodasnew.de^
 ||hauixd.halistores.com^
 ||hauledforewordsentimental.com^
@@ -54388,7 +54392,6 @@
 ||hirsailauph.net^
 ||hirsung.de^
 ||hirurdou.net^
-||hismarttv.com^
 ||hispherefair.com^
 ||hissedapostle.com^
 ||histats.com^
@@ -58591,6 +58594,7 @@
 ||jainecizous.xyz^
 ||jainjkal.com^
 ||jaiphoaptom.net^
+||jakseegrutso.net^
 ||jalapicundelve.top^
 ||jaletemetia.com^
 ||jalewaads.com^
@@ -59944,6 +59948,7 @@
 ||ketseestoog.net^
 ||kettakihome.com^
 ||kettlemisplacestate.com^
+||kewbnmbettrd.xyz^
 ||kewodruzeezu.xyz^
 ||kewrutd.top^
 ||kexarvamr.com^
@@ -68549,6 +68554,7 @@
 ||mficlyxgvfsp.cdnvideo3.com^
 ||mflsbcasbpx.com^
 ||mfmkkv.sorgenia.it^
+||mfoizeiwlbijkn.com^
 ||mfrmls.actonservice.com^
 ||mfxtlm.mobiup.ro^
 ||mg.32r.com^
@@ -68633,6 +68639,7 @@
 ||mickblowess.shop^
 ||mickiesetheric.com^
 ||mickosijacm.net^
+||micro-xdb.com^
 ||micro.workplaceinvesting.fidelity.com^
 ||microad.net^
 ||microad.vn^
@@ -69377,6 +69384,7 @@
 ||monumentsmaterialeasel.com^
 ||monxserver.com^
 ||mooawlqwrkhxlt.com^
+||moobuphaloachu.net^
 ||moodirresolute.com^
 ||moodjav12.fun^
 ||moodlerooms.blackboard.com^
@@ -71733,6 +71741,7 @@
 ||o911o.com^
 ||o9tt6h08li.execute-api.eu-west-1.amazonaws.com^
 ||oaajylbosyndpjl.com^
+||oaapfztunpmky.vip^
 ||oabaubsutha.com^
 ||oabnmx.jewelryexchange.com^
 ||oacaighy.com^
@@ -74791,6 +74800,7 @@
 ||pgssjxz.com^
 ||pgssl.com^
 ||pgt1.voyage-prive.es^
+||pguzquckxbb.com^
 ||pgyfzyv.top^
 ||ph-query-1.looksmart.com^
 ||ph.thenextweb.com^
@@ -94441,6 +94451,7 @@
 ||theirsneedful.com^
 ||theirsstrongest.com^
 ||theloungenet.com^
+||theltemtirg.net^
 ||thematicalaste.info^
 ||thembriskjumbo.com^
 ||theme.echovisuals.com^
@@ -101372,6 +101383,7 @@
 ||vgzytn.xyz^
 ||vh8.icu^
 ||vhans.siege-corp.com^
+||vhbhundyietwwc.com^
 ||vhducnso.com^
 ||vhid.cn^
 ||vhinyvcsxcga.com^
@@ -101977,6 +101989,7 @@
 ||vpxxolmxyaludyr.com^
 ||vpxzunvaldxcp.world^
 ||vpydjogaytpg.xyz^
+||vq4b0q.fun^
 ||vqaj6smlmtpym.top^
 ||vqbidy.benetton.com^
 ||vqbzpv.xyz^
@@ -104060,6 +104073,7 @@
 ||ww9.kohls.com^
 ||wwads.cn^
 ||wwaeljajwvlrw.top^
+||wwaeljamkvayk.top^
 ||wwaowwonthco.com^
 ||wwarvlezkjev.top^
 ||wwarvlorkeww.top^
@@ -107425,6 +107439,7 @@
 ||zograughoa.net^
 ||zogrepsili.com^
 ||zogzoldop.com^
+||zoiefwqhcaczun.com^
 ||zokaukree.net^
 ||zokzavnea.com^
 ||zolivexo.store^
@@ -107472,6 +107487,7 @@
 ||zpbpenn.com^
 ||zpcode11.com^
 ||zpgetworker11.com^
+||zpilkesyasa.com^
 ||zpipacuz-lfa.vip^
 ||zplayer-trk.zdn.vn^
 ||zplayer.trk.zapps.vn^
