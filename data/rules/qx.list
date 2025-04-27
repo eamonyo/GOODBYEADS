@@ -23079,7 +23079,6 @@ DOMAIN,adtrack.maisonlexia.com,reject
 DOMAIN,adtrack.quark.cn,reject
 DOMAIN,adtrack.xiaojukeji.com,reject
 DOMAIN,adtracker.jpchd.veraxen.com,reject
-DOMAIN,adtracker.oilpainting.colorbynumber.veraxen.com,reject
 DOMAIN,adtracker2.com,reject
 DOMAIN,adtrackeraa.com,reject
 DOMAIN,adtracking.smartmediarep.com,reject
@@ -23089,7 +23088,6 @@ DOMAIN,adtrading.de,reject
 DOMAIN,adtrgt.com,reject
 DOMAIN,adtrieval.com,reject
 DOMAIN,adtriplex.com,reject
-DOMAIN,adtrk20.com,reject
 DOMAIN,adtrue.com,reject
 DOMAIN,adtrue24.com,reject
 DOMAIN,adtscriptshark.com,reject
@@ -33156,6 +33154,7 @@ DOMAIN,cdn.admatic.com.tr,reject
 DOMAIN,cdn.ads-flipp.com,reject
 DOMAIN,cdn.adsninja.ca,reject
 DOMAIN,cdn.adspmg.com,reject
+DOMAIN,cdn.advg.agency,reject
 DOMAIN,cdn.adxcontent.com,reject
 DOMAIN,cdn.affiliatable.io,reject
 DOMAIN,cdn.afwpc.com,reject
@@ -38812,7 +38811,6 @@ DOMAIN,dai18.mumu01.com,reject
 DOMAIN,daicagrithi.com,reject
 DOMAIN,daichoho.com,reject
 DOMAIN,daicoaky.net,reject
-DOMAIN,daidlyrebathe.top,reject
 DOMAIN,daifez.thebay.com,reject
 DOMAIN,daiitmk.cn,reject
 DOMAIN,daily-info.live,reject
@@ -55227,6 +55225,7 @@ DOMAIN,invol.co,reject
 DOMAIN,involvementvindictive.com,reject
 DOMAIN,invordones.com,reject
 DOMAIN,inwraptsekane.com,reject
+DOMAIN,inwuamo.top,reject
 DOMAIN,inx-corp.actonservice.com,reject
 DOMAIN,inxgfxylzkkgi.one,reject
 DOMAIN,inyoketuber.com,reject
@@ -55573,6 +55572,7 @@ DOMAIN,itmamoswineer.com,reject
 DOMAIN,itnhosioqb.com,reject
 DOMAIN,itnuzleafan.com,reject
 DOMAIN,itop.cz,reject
+DOMAIN,itoqals.com,reject
 DOMAIN,itp.phoebebeautyup.com,reject
 DOMAIN,itp.yaku-job.com,reject
 DOMAIN,itpatratr.com,reject
@@ -56871,6 +56871,7 @@ DOMAIN,jxldpjxcp.com,reject
 DOMAIN,jxoaza.yourmystar.jp,reject
 DOMAIN,jxpsrh.casamundo.co.uk,reject
 DOMAIN,jxsmzz.mytrauringstore.de,reject
+DOMAIN,jxtcbriz.icu,reject
 DOMAIN,jxvrhx.fotokoch.de,reject
 DOMAIN,jxxnnhdgbfo.xyz,reject
 DOMAIN,jxy6.evobanco.es,reject
@@ -61312,6 +61313,7 @@ DOMAIN,lvw7k4d3j.com,reject
 DOMAIN,lw.b.inhaabit.com,reject
 DOMAIN,lw.musictarget.com,reject
 DOMAIN,lw2dplgt8.com,reject
+DOMAIN,lwcnmtl.top,reject
 DOMAIN,lweizal.top,reject
 DOMAIN,lweriol.top,reject
 DOMAIN,lwgadm.com,reject
@@ -63998,6 +64000,7 @@ DOMAIN,mechabiptouth.com,reject
 DOMAIN,mechaelpaceway.com,reject
 DOMAIN,mechanicalcardiac.com,reject
 DOMAIN,mechoftouft.net,reject
+DOMAIN,mecv.cn,reject
 DOMAIN,med.androderm.com,reject
 DOMAIN,med.aptalispharma.com,reject
 DOMAIN,med.armourthyroid.com,reject
@@ -82350,7 +82353,6 @@ DOMAIN,smartlnk.com,reject
 DOMAIN,smartlymaybe.com,reject
 DOMAIN,smartlysquare.com,reject
 DOMAIN,smartmnews.pro,reject
-DOMAIN,smartoffer.site,reject
 DOMAIN,smartpush0.info,reject
 DOMAIN,smartpush1.info,reject
 DOMAIN,smartshare.lgtvsdp.com,reject
