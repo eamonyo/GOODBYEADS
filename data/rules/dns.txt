@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-04-28 09:55:11（北京时间）
+! Version: 2025-04-28 20:55:02（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 105968
+! Total count: 106121
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -10486,7 +10486,6 @@
 ||3twentyfour.xyz^
 ||3u4zyeugi.com^
 ||3uo.fun^
-||3vig.com^
 ||3vp.icu^
 ||3wn3w3skxpym.round.t3.gg^
 ||3wr110.net^
@@ -13730,6 +13729,7 @@
 ||7007.gofenews.com^
 ||7007.lookinews.com^
 ||7009.reminews.com^
+||700f312054.com^
 ||7011.stia.cn^
 ||7014.reminews.com^
 ||7015.reminews.com^
@@ -23095,7 +23095,6 @@
 ||adtrack.maisonlexia.com^
 ||adtrack.quark.cn^
 ||adtrack.xiaojukeji.com^
-||adtracker.jpchd.veraxen.com^
 ||adtracker2.com^
 ||adtrackeraa.com^
 ||adtracking.smartmediarep.com^
@@ -24199,6 +24198,7 @@
 ||albumshrugnotoriety.com^
 ||albusmiliary.top^
 ||alcatza.com^
+||alchemymatchesconnection.com^
 ||alchemysocial.com^
 ||alcidkits.com^
 ||alclick.com^
@@ -28166,6 +28166,7 @@
 ||aterroppop.com^
 ||atethebenefitsshe.com^
 ||ateveq.street-beat.ru^
+||ateyfathertold.org^
 ||atgahsskoa.com^
 ||atgallader.com^
 ||atgkcuob.com^
@@ -28412,6 +28413,8 @@
 ||auphawhu.net^
 ||auptirair.com^
 ||auraodin.com^
+||auras-loves-dreams.com^
+||aurasmeet-find.com^
 ||aurelianlending.actonservice.com^
 ||aurineflytier.click^
 ||aurirdikseewhoo.net^
@@ -30190,6 +30193,7 @@
 ||best-video-app.com^
 ||best-vpn-app.com^
 ||best0ne.com^
+||best4vipladysflirtings.com^
 ||bestadload.com^
 ||bestadsforyou.com^
 ||bestadsrv.com^
@@ -30220,6 +30224,7 @@
 ||bestcontentweb.top^
 ||bestconvertor.club^
 ||bestcpmnetwork.com^
+||bestdatingspot.com^
 ||bestdealfor1.life^
 ||bestdisplaycontent.com^
 ||bestdisplayformats.com^
@@ -30227,10 +30232,14 @@
 ||bestfreecounterstat.com^
 ||bestfuckapps.com^
 ||bestfunnyads.com^
+||bestgirlsjourneys.com^
 ||bestill.help.no^
+||bestinfinitelovelinks.com^
 ||bestinfo.bluetrustloans.com^
 ||bestinterestings.com^
+||bestladiessweetnow.top^
 ||bestladymeet.life^
+||bestladythematches.com^
 ||bestloans.tips^
 ||bestmmogame.com^
 ||bestoffers-fe.com^
@@ -30239,6 +30248,8 @@
 ||bestowgradepunch.com^
 ||bestowsiege.com^
 ||bestowsmiasm.top^
+||bestpartner-love.com^
+||bestpartnerssites.com^
 ||bestpush.pconline.com.cn^
 ||bestreceived.com^
 ||bestrevenuenetwork.com^
@@ -30246,6 +30257,7 @@
 ||bestskillon.com^
 ||bestsrv.de^
 ||bestssrv.com^
+||bestsweetconnection.com^
 ||bestunfollow.com^
 ||bestvenadvertising.com^
 ||bestwaterhouseoyo.info^
@@ -32152,6 +32164,7 @@
 ||bvzc.cn^
 ||bwb101.goo.ne.jp^
 ||bwbmyzvnjqrbk.top^
+||bwcnmtv.top^
 ||bweriov.top^
 ||bwhhcuikrgvhs.online^
 ||bwhuyauklndvt.online^
@@ -32936,6 +32949,8 @@
 ||castify-trk.playitviral.com^
 ||castingmannergrim.com^
 ||castleconscienceenquired.com^
+||casual-sweetsite.com^
+||casualswomanromances.com^
 ||casumoaffiliates.com^
 ||cat.beunitedinchrist.com^
 ||cat.gfx.io^
@@ -35912,6 +35927,7 @@
 ||consumer.inform.equifax.com^
 ||consumodakir.top^
 ||contact-gloss-production.accelerator.net^
+||contact-universe.com^
 ||contact-us.adp.ca^
 ||contact.abc-companies.com^
 ||contact.adaptavist.com^
@@ -35934,10 +35950,12 @@
 ||contactcenter.presenceco.com^
 ||contactcenter.verintsystemsinc.com^
 ||contactcentercala.verintsystemsinc.com^
+||contactconnectnet.com^
 ||contactecs.arrow.com^
 ||contacto.gtc.com.gt^
 ||contacto.lecleire.com.gt^
 ||contactsin.com^
+||contactslovesdreampartner.com^
 ||contactus.53.com^
 ||contador.biobiochile.cl^
 ||contadores.miarroba.com^
@@ -36154,6 +36172,7 @@
 ||cookingmeat.ru^
 ||cookingsorting.com^
 ||cookypense.shop^
+||cool-meetlovers.com^
 ||cool.gaygo.tv^
 ||coolehim.xyz^
 ||coolemailnames.com^
@@ -36169,8 +36188,10 @@
 ||coollyadmissibleclack.com^
 ||coolnesswagplead.com^
 ||cooloffer.cfd^
+||cools-sweetclub.com^
 ||coolserving.com^
 ||coolstreamsearch.com^
+||coolthewomanonline.com^
 ||coonandeg.xyz^
 ||coonouptiphu.xyz^
 ||coonsapodema.top^
@@ -36677,7 +36698,10 @@
 ||crazesmalto.com^
 ||crazodsxx.com^
 ||crazy-baboon.com^
+||crazy-loveplace.com^
+||crazy-sweetclicks.com^
 ||crazylead.com^
+||crazylovepartners.com^
 ||crazypopups.com^
 ||crazyshit.com/js/pu^
 ||crazyshit.com/static/js/ab^
@@ -37149,10 +37173,12 @@
 ||cupboardbangingcaptain.com^
 ||cupboardgold.com^
 ||cupheashagbag.top^
+||cupi-meetparadise.com^
 ||cupidirresolute.com^
 ||cupidonmedia.com^
 ||cupidrecession.com^
 ||cupidtriadperpetual.com^
+||cupis-lady-dreampartner.com^
 ||cuplikenominee.com^
 ||cupoabie.net^
 ||cupriteshivas.shop^
@@ -38862,7 +38888,10 @@
 ||daicoaky.net^
 ||daifez.thebay.com^
 ||daiitmk.cn^
+||daily-datehere.com^
 ||daily-info.live^
+||daily-theromancespot.com^
+||daily-thesweet-finds.com^
 ||daily.thezebra.org^
 ||daily.yubanet.com^
 ||dailyalienate.com^
@@ -39551,14 +39580,19 @@
 ||datatechone.com^
 ||datatechonert.com^
 ||datazap.online^
+||date-romance-realm.com^
 ||date-till-late.us^
+||date-universe-zone.com^
 ||date-vortex.com^
 ||date2024.com^
 ||date2day.pro^
 ||date4sex.pro^
 ||dateddeed.com^
+||dategirls-now.com^
 ||daten.union-investment.de^
 ||datepleasure.com^
+||dates-delight-fever.com^
+||dates-fever-zone.com^
 ||datesassistant.com^
 ||dateskeitai.com^
 ||datesnsluts.com^
@@ -39569,19 +39603,30 @@
 ||datexurlove.com^
 ||datherap.xyz^
 ||dathinaxvsky.com^
+||dating-amour-club.com^
 ||dating-banners.com^
+||dating-honey-girls.com^
+||dating-honeygirles.com^
+||dating-masters-haven.com^
+||dating-paradises.com^
 ||dating-roo3.site^
 ||dating2cloud.org^
 ||datingcentral.top^
 ||datingero.com^
+||datingflirt-spots.com^
 ||datingforyour4.site^
+||datinghoneygirls.com^
 ||datingiife.net^
 ||datingiive.net^
 ||datingkoen.site^
+||datinglovepartner.com^
 ||datingmeetnet.com^
 ||datingprudethimble.com^
 ||datingstyle.top^
+||datingsweet-thereals.com^
 ||datingtoday.top^
+||datingtop-flirt.com^
+||datingtop-flirtses.com^
 ||datingtopgirls.com^
 ||datingvr.ru^
 ||datjwuqifa.com^
@@ -40111,6 +40156,7 @@
 ||delightedplash.com^
 ||delightedprawn.com^
 ||delightfulmachine.pro^
+||delightfulsladys-meetup.com^
 ||delightspiritedtroop.com^
 ||delikoko.openapp.link^
 ||deliman.net^
@@ -40908,6 +40954,7 @@
 ||dinahmalawi.shop^
 ||dincloud.actonservice.com^
 ||dincloudllc.actonservice.com^
+||dindeedtheriver.com^
 ||dinecogitateaffections.com^
 ||dinejav11.fun^
 ||dinerbreathtaking.com^
@@ -41367,7 +41414,6 @@
 ||dlvds9i67c60j.cloudfront.net^
 ||dlxk2dj1h3e83.cloudfront.net^
 ||dlxpix.net^
-||dlyakleonarb.ru^
 ||dlyarecnew.me^
 ||dlzbax.street-academy.com^
 ||dlziqh9bo7.boring.fm^
@@ -41976,8 +42022,10 @@
 ||dreadedrevisablevest.com^
 ||dreadfulprofitable.com^
 ||dreadluckdecidedly.com^
+||dream-contact-junction.com^
 ||dreamintim.net^
 ||dreamlikefostergala.com^
+||dreammember-journey.com^
 ||dreamteamaffiliates.com^
 ||dreary-hunt.com^
 ||dreeghdefacto.shop^
@@ -42811,7 +42859,10 @@
 ||eastrk-dn.com^
 ||eastrk-lg.com^
 ||eastyewebaried.info^
+||easy-contact-club.com^
 ||easy-dating.org^
+||easy-datingzone.com^
+||easy-love-zone.com^
 ||easy.au.ru^
 ||easy2cnjuh34jb.com^
 ||easyaccess.mobi^
@@ -42821,6 +42872,7 @@
 ||easyconverts.com^
 ||easyfag.com^
 ||easyflirt-partners.biz^
+||easygoing-thesweet-places.com^
 ||easygoingasperitydisconnect.com^
 ||easygoingseducingdinner.com^
 ||easygoingtouchybribe.com^
@@ -42832,6 +42884,7 @@
 ||easyplanrail.live^
 ||easysearch.click^
 ||easysemblyjusti.info^
+||easythedate-casual.com^
 ||easytomessage.com^
 ||eat.newtrina.com^
 ||eat9.thebeat925.ca^
@@ -43535,6 +43588,9 @@
 ||elink.rushcopley.com^
 ||elink.serasaexperian.com.br^
 ||elinks.dice.com^
+||elite-flirts-find.com^
+||elite-thecontactstimes.com^
+||elite-thedatingfind.com^
 ||eliteclng.ericksonbuilt.com^
 ||elitedistasteful.com^
 ||elitedollars.com^
@@ -44147,6 +44203,7 @@
 ||encasesmelly.com^
 ||enchanted-stretch.pro^
 ||enchantedrock.actonservice.com^
+||enchantshot-fever.com^
 ||encirclehumanityarea.com^
 ||encirclesheriffemit.com^
 ||enclosedswoopbarnacle.com^
@@ -44439,7 +44496,6 @@
 ||entterto.com^
 ||enueduringhere.info^
 ||enuksg.xyz^
-||envato.market^
 ||envious-low.com^
 ||enviousinevitable.com^
 ||enviousthread.com^
@@ -45298,6 +45354,9 @@
 ||excitead.com^
 ||excitementcolossalrelax.com^
 ||excitementoppressive.com^
+||exciting-date-haven.com^
+||exciting-meetcasual.com^
+||exciting-sweetjunction.com^
 ||excitinginstitute.com^
 ||excitingstory.click^
 ||exclkplat.com^
@@ -45770,6 +45829,9 @@
 ||fallbrook247.com^
 ||fallenleadingthug.com^
 ||fallhadintense.com^
+||fallin-thedatingfever.com^
+||fallinflirt-theflirts.com^
+||fallinmatches-paradises.com^
 ||falloutspecies.com^
 ||falsechasingdefine.com^
 ||falseframe.com^
@@ -46550,15 +46612,20 @@
 ||findbetterresults.com^
 ||findcommerce.com^
 ||finder2024.com^
+||findgirlsdream.com^
+||findgirlsflirting.com^
 ||findgreatnews.com^
 ||findingattending.com^
 ||findingexchange.com^
 ||findmanloverse.com^
+||findpartnerthefinder.com^
 ||findromanticdates.com^
 ||findrpc.sh^
+||finds-girls-junction.com^
 ||findsjoyous.com^
 ||findslofty.com^
 ||findsrecollection.com^
+||findsweetladies.com^
 ||findthetruth.allergyai.com^
 ||findyourcasino.com^
 ||findyourinfluence.actonservice.com^
@@ -46776,10 +46843,16 @@
 ||flipool.com^
 ||flippantguilt.com^
 ||flipt.actonservice.com^
+||flirt-hotlady.com^
 ||flirt-women.com^
 ||flirtatiousconsultyoung.com^
+||flirtclick-matches.com^
 ||flirtclickmatches.life^
+||flirtcontacthookup.com^
+||flirtdateconnections.com^
 ||flirtgirles-romances.com^
+||flirting-place.com^
+||flirtmydating.com^
 ||flirtorix.com^
 ||flixdot.com^
 ||flixgvid.flix360.io^
@@ -48290,6 +48363,7 @@
 ||gejusherstertithap.info^
 ||gejzgq.gehaltsvergleich.com^
 ||gekeebsirs.com^
+||gekhasaks.com^
 ||gelatedsmiting.shop^
 ||gelatineabstainads.com^
 ||gelatinelighter.com^
@@ -48854,7 +48928,10 @@
 ||girlingunguyed.com^
 ||girllsforyou.net^
 ||girlporn.ru^
+||girls-romancehaven.com^
 ||girlsflirthere.life^
+||girlsgirlstimes.com^
+||girlsthecontacttheconnect.com^
 ||girlstretchingsplendid.com^
 ||girlwallpaper.pro^
 ||gishejuy.com^
@@ -50651,6 +50728,7 @@
 ||gvfbpo.diafer.com.br^
 ||gvideo.qpic.cn^
 ||gvmomuqjv1.swyftx.com^
+||gvsnhzmjr.com^
 ||gvt2.com^
 ||gvvedashb6.fun^
 ||gvxnff.soulara.com.au^
@@ -51952,6 +52030,7 @@
 ||honeycombastrayabound.com^
 ||honeymoondisappointed.com^
 ||honeyreadinesscentral.com^
+||honeywomenflirt.com^
 ||hongi7ie8owiie01.site^
 ||hongi7ie8owiie02.site^
 ||hongi7ie8owiie03.site^
@@ -51978,6 +52057,7 @@
 ||hookawep.net^
 ||hookjav12.fun^
 ||hookupfowlspredestination.com^
+||hookups-hots-searchs.com^
 ||hookworm.campaignzee.com^
 ||hooliganmedia.com^
 ||hooligapps.com^
@@ -52064,6 +52144,7 @@
 ||hostmaster.selornews.com^
 ||hostolhg.com^
 ||hot-dating-here.life^
+||hot-datingsjunction.com^
 ||hot.justpornflix.com^
 ||hot4k.org^
 ||hotadultcontent.com^
@@ -52079,8 +52160,10 @@
 ||hotbqzlchps.com^
 ||hotbraraja.cc^
 ||hotbruneha.cc^
+||hotconnecthaven.com^
 ||hotcontent.tsmt5revp.com^
 ||hotdatehaven.com^
+||hotdatingparadise.com^
 ||hotdeskbabes.pro^
 ||hotdogemblaze.com^
 ||hotegotisticalturbulent.com^
@@ -52095,6 +52178,7 @@
 ||hotngay.vn^
 ||hotodoar.net^
 ||hotrank.com.tw^
+||hotswoman-online.com^
 ||hottedholster.com^
 ||hottercensorbeaker.com^
 ||hotupgrade.hpplay.cn^
@@ -56684,7 +56768,6 @@
 ||jrolyrlabykmb.top^
 ||jrpkizae.com^
 ||jrpolj.xyz^
-||jrrryblznaaqa.top^
 ||jrtbjai.com^
 ||jrtlisa.top^
 ||jrtonirogeayb.com^
@@ -57689,6 +57772,7 @@
 ||knuinws.icu^
 ||knul.cn^
 ||knutenegros.pro^
+||knwuamd.top^
 ||knymhv.ariat.com^
 ||knzmrw.infojobs.net^
 ||knzqjr.pult.ru^
@@ -58265,6 +58349,11 @@
 ||ladbrokesaffiliates.com.au^
 ||ladenapp.com^
 ||ladghy.jcb.co.jp^
+||ladies-datingmatches.com^
+||ladies-flirtings.com^
+||ladies-loves-dream.com^
+||ladiesmatchesfinder.com^
+||ladiessweetnow.com^
 ||ladnet.co^
 ||ladsabs.com^
 ||ladsans.com^
@@ -60008,6 +60097,7 @@
 ||lipheak.com^
 ||lipidicchaoush.com^
 ||lipqkoxzy.com^
+||lipsanographer.monster^
 ||lipsoowesto.net^
 ||lipteedseelr.com^
 ||liqikxqpx.com^
@@ -60973,12 +61063,17 @@
 ||lousyfastened.com^
 ||louthicoozit.net^
 ||louxoxo.com^
+||love-flirtdream.com^
+||love-partnersdreamers.com^
+||love-romancejunction.com^
 ||love.furenkeji.com^
 ||love.romanticcollection.ru^
 ||loveameng.top^
 ||loveamikoi.com^
+||lovecontacthookups.com^
 ||lovedenimori.com^
 ||loveeveryday.brighterkind.com^
+||loveflirt-haven.com^
 ||loveflirte.com^
 ||lovehiccuppurple.com^
 ||lovelybingo.com^
@@ -60988,6 +61083,7 @@
 ||loverevenue.com^
 ||loverfellow.com^
 ||loverssloppy.com^
+||lovescontactthemeetup.com^
 ||lovesparkle.space^
 ||loveyousaid.info^
 ||lovingboulevard.com^
@@ -64285,6 +64381,10 @@
 ||meerkat.inprivy.io^
 ||meerustaiwe.net^
 ||meet-buddy.com^
+||meet-love-lover.com^
+||meet-romance-girls.com^
+||meet-romanceconnects.com^
+||meet-womanhere.com^
 ||meet.intercall.com^
 ||meet.westuc.com^
 ||meet4you.net^
@@ -64299,6 +64399,7 @@
 ||meetingrailroad.com^
 ||meetings.gaylordhotels.com^
 ||meetmagsuit.live^
+||meets-love-connection.com^
 ||meetwebclub.com^
 ||meetyuorllove.com^
 ||meewireg.com^
@@ -66338,6 +66439,7 @@
 ||mistletoeethicleak.com^
 ||mistralwringle.top^
 ||mistrustconservation.com^
+||misty-eyed.boats^
 ||mistydexterityflippant.com^
 ||misuraunnail.com^
 ||misuseartsy.com^
@@ -67302,7 +67404,6 @@
 ||mudrouraung.net^
 ||muellfrei.de^
 ||muendakutyfore.info^
-||muer.cdn-baidu.fs-sywh.com^
 ||mufflercypress.com^
 ||mugapi.lazzarionline.com^
 ||mugleafly.com^
@@ -67472,9 +67573,12 @@
 ||my-go.experian.com^
 ||my-hanson.com^
 ||my-hub.top^
+||my-romanceharmony.com^
 ||my-rudderjolly.com^
+||my-sensualdatings.com^
 ||my-spacelv.com^
 ||my-staging.villa.ge^
+||my-sweetflirt.com^
 ||my-testing.tsgo.io^
 ||my.007moms.com^
 ||my.adright.co^
@@ -67524,6 +67628,7 @@
 ||mybestclick.net^
 ||mybestdc.com^
 ||mybetterck.com^
+||mybetterdatings.com^
 ||mybetterdl.com^
 ||mybgrea97.shop^
 ||mybjjg.vlan.be^
@@ -67543,6 +67648,12 @@
 ||mycunroofs.top^
 ||mydario.actonservice.com^
 ||mydas.mobi^
+||mydate-online.com^
+||mydatemeetonline.com^
+||mydateromancerealm.com^
+||mydatings-partner-dates.com^
+||mydatingstheladys-club.com^
+||mydatingswomanonlines.com^
 ||mydomainbest.com^
 ||myeasetrack.com^
 ||myeasyvpn.com^
@@ -67553,6 +67664,7 @@
 ||myfeed.thalesgroup.com^
 ||myfenxi.com^
 ||myfinance.com^
+||myflirtfantasy.com^
 ||myflixer.is/ajax/banner^
 ||myflixer.is/ajax/banners^
 ||myfuture.futureelectronics.com^
@@ -67564,6 +67676,7 @@
 ||myhome.usg.com^
 ||myhomescreen.tv^
 ||myhotelbook.pegs.com^
+||myhotheartbeat.com^
 ||myimagetracking.com^
 ||myinfo.borland.com^
 ||myinfo.eaton.com^
@@ -67572,6 +67685,7 @@
 ||mykofyridhsoss.xyz^
 ||mylinkbox.com^
 ||mylot.com^
+||myloveaffaires.com^
 ||mylovesphere.com^
 ||mylust.com/assets/script.js^
 ||mymap.icu^
@@ -67613,6 +67727,8 @@
 ||myroledance.com^
 ||myrrhisunition.store^
 ||mysalo.store^
+||myscontactonlines.com^
+||mysearchhotdatings.com^
 ||mysingleromance.com^
 ||mysite.webroot.com^
 ||mystat-in.net^
@@ -67620,6 +67736,8 @@
 ||mystats.flixfiend.top^
 ||mystery.vfmleonardo.com^
 ||mysticmatebiting.com^
+||mysweet-flirts-hubs.com^
+||mysweethoneygirls.com^
 ||mysweetteam.com^
 ||mytdsnet.com^
 ||myteamdev.com^
@@ -67720,7 +67838,6 @@
 ||na.nawpush.com^
 ||na.wpu.sh^
 ||na.wpush.net^
-||na0z0thlap.com^
 ||naanalle.pl^
 ||nabalpal.com^
 ||nabauxou.net^
@@ -68194,6 +68311,7 @@
 ||newoneinoldoneout.pro^
 ||newopenx.detik.com^
 ||newosama.com^
+||newpartnerlover.com^
 ||newperspective.americanexpress.com^
 ||newregazedatth.com^
 ||newrevive.detik.com^
@@ -69003,6 +69121,7 @@
 ||nthldc.europcar.co.uk^
 ||ntiutox.icu^
 ||ntlcgevw-u.one^
+||ntlurfixeyzlf.vip^
 ||ntlysearchingf.info^
 ||ntmastsaultet.info^
 ||ntmreohudibfo.buzz^
@@ -69414,6 +69533,7 @@
 ||objectlesslatterdissolved.com^
 ||objectpartners.actonservice.com^
 ||oblapdnhiz.com^
+||oblfhahmy.com^
 ||obligebuffaloirresolute.com^
 ||obliterateminingarise.com^
 ||oblivionpie.com^
@@ -71906,6 +72026,7 @@
 ||partion-ricism.xyz^
 ||partitionshawl.com^
 ||partner-app.softwareselect.com^
+||partner-dateconnects.com^
 ||partner-staging.miso.kr^
 ||partner-ts.groupon.fr^
 ||partner.accesstrade.vn^
@@ -74076,6 +74197,7 @@
 ||pretenddyker.com^
 ||pretextunfinished.com^
 ||pretrackings.com^
+||pretransact.homes^
 ||pretty-fly4.com^
 ||pretty-sluts-nearby.com^
 ||prettyfaintedsaxophone.com^
@@ -75896,6 +76018,7 @@
 ||qwrwhosailedbe.info^
 ||qwsanan.top^
 ||qwtag.com^
+||qwti.cn^
 ||qwuaqrxfuohb.com^
 ||qwuopcbilw.com^
 ||qwursery.top^
@@ -76418,6 +76541,7 @@
 ||realogic.actonservice.com^
 ||realogicinc.actonservice.com^
 ||realrb.bid^
+||realromanceplace.com^
 ||realsh.xyz^
 ||realsolutions.americanexpress.fr^
 ||realsolutions.americanexpress.it^
@@ -77792,9 +77916,12 @@
 ||rolsoupouh.xyz^
 ||rolt7it2lhml5rxa.edge41.testandtarget.omniture.com^
 ||rolzqwm.com^
+||romance-contact-flirtings.com^
 ||romance-net.com^
 ||romancefever.com^
 ||romancepotsexists.com^
+||romances-connects.com^
+||romanceswoman-romance.com^
 ||romanlicdate.com^
 ||romanticwait.com^
 ||romantiicaffair.net^
@@ -87638,7 +87765,9 @@
 ||stapledsaur.top^
 ||star-advertising.com^
 ||star-clicks.com^
+||star-romancejunctions.com^
 ||star-seo.oss-ap-northeast-1.aliyuncs.com^
+||star-theladyfinds.com^
 ||starchild.odencat.com^
 ||starchy-foundation.pro^
 ||stardomcoit.com^
@@ -89600,6 +89729,7 @@
 ||streamswedish.life^
 ||streamtoclick.com^
 ||streamyourvid.com^
+||street-datetop.com^
 ||streetgrieveddishonour.com^
 ||streetmonumentemulate.com^
 ||streetsbuccaro.com^
@@ -89928,6 +90058,7 @@
 ||superpointlesshamsters.com^
 ||superqualitylink.com^
 ||superrgood.com^
+||supers-date-themeetup.com^
 ||supersedeforbes.com^
 ||superservercellarchin.com^
 ||superset.rookinews.com^
@@ -90266,9 +90397,11 @@
 ||sweet-discount.pro^
 ||sweet.runsexyad.site^
 ||sweetheartshippinglikeness.com^
+||sweetmatchheart.com^
 ||sweetmoonmonth.com^
 ||sweetpacks.com^
 ||sweetromance.life^
+||sweetsoulmatedates.com^
 ||sweisib.top^
 ||sweizab.top^
 ||swelen.com^
@@ -92274,10 +92407,12 @@
 ||thechleads.pro^
 ||thechoansa.com^
 ||thechronicles2.xyz^
+||thecitydating.com^
 ||thecoidchirped.top^
 ||thecoinworsttrack.com^
 ||thecontentserver.com^
 ||thecoreadv.com^
+||thedating-mix.top^
 ||theefiwu.net^
 ||theehouho.xyz^
 ||theekedgleamed.com^
@@ -92287,10 +92422,12 @@
 ||theetchedreeb.net^
 ||theetheks.com^
 ||theetholri.xyz^
+||theexcitingsweetflirt.com^
 ||theextensionexpert.com^
 ||thefacux.com^
 ||thefastpush.com^
 ||thefenceanddeckguys.com^
+||theflirtfiesta.com^
 ||thefontzone.com^
 ||theftdarling.top^
 ||theglossonline.com^
@@ -92306,6 +92443,7 @@
 ||thempoorduts.com^
 ||themselphenyls.com^
 ||themselvessuit.com^
+||themydatings-matches.com^
 ||thenceafeard.com^
 ||thencedisgustedbare.com^
 ||thenceshapedrugged.com^
@@ -92317,6 +92455,7 @@
 ||theonesstoodtheirground.com^
 ||theonlins.com^
 ||theoverheat.com^
+||thepartnerpleasurs.com^
 ||theplansaimplem.com^
 ||theplayadvisor.com^
 ||thepsimp.net^
@@ -92340,6 +92479,7 @@
 ||thesekid.pro^
 ||thesisadornpathetic.com^
 ||thesisreducedo.com^
+||thesolemndates.com^
 ||thesource.black.news^
 ||thesuccessstars.actonservice.com^
 ||theta.sogoucdn.com^
@@ -92587,6 +92727,7 @@
 ||tigershark.samwaymire.com^
 ||tigershark.vandevliet.me^
 ||tighternativestraditional.com^
+||tightflirtsmeets.com^
 ||tigipurcyw.com^
 ||tiglck.technopolis.bg^
 ||tiglon.beyondco.de^
@@ -93225,6 +93366,8 @@
 ||topcamepan.live^
 ||topcpmcreativeformat.com^
 ||topcreativeformat.com^
+||topdatingdelight.com^
+||topdatingshub.com^
 ||topdealad.com^
 ||topdisplay.xyz^
 ||topdisplaycontent.com^
@@ -96691,6 +96834,7 @@
 ||trkless.com^
 ||trklink.luisaviaroma.com^
 ||trklnks.com^
+||trkmesh.com^
 ||trkn.us^
 ||trkn1.com^
 ||trknex.com^
@@ -96748,6 +96892,8 @@
 ||truazka.xyz^
 ||trucelabwits.com^
 ||trucemallow.website^
+||true-girlstheconnection.com^
+||true-sweets-dreampartner.com^
 ||true.aahen.site^
 ||truefaced.actonservice.com^
 ||truehits.net^
@@ -97434,6 +97580,7 @@
 ||ucmx.cn^
 ||ucounter.ucoz.net^
 ||ucppeo.silux.hr^
+||ucqobboijaou.com^
 ||ucs.betwaygroup.com^
 ||ucuoknexq.global^
 ||uczfjhbjyxbt.com^
@@ -97610,6 +97757,7 @@
 ||uivc.cn^
 ||uiwock.epantofi.ro^
 ||uixml.bidcampaign.com^
+||uiypods.my^
 ||ujbhri.pharmamarket.nl^
 ||ujimtyt.top^
 ||ujjsiijbgxpk.com^
@@ -102089,6 +102237,7 @@
 ||wwjnoafuexamtg.com^
 ||wwjtdjj.cn^
 ||wwnscv.myspringfield.com^
+||wwok04281kl.com^
 ||wwokkf.laredoute.ru^
 ||wwow.xyz^
 ||wwowww.xyz^
@@ -104797,6 +104946,7 @@
 ||yeni.aomg5bzv7.com^
 ||yequiremuke.com^
 ||yerhfnytky.top^
+||yerkselator.shop^
 ||yernbiconic.com^
 ||yeryt111.fun^
 ||yes-messenger.com^
@@ -105042,6 +105192,7 @@
 ||youate.co^
 ||youborafds01.com^
 ||youboranqs01.com^
+||youdatingrealm.com^
 ||youdatlng.com^
 ||youdguide.com^
 ||youdloaners.com^
@@ -105075,6 +105226,7 @@
 ||yourcare.pennstatehealth.org^
 ||yourcdnjs.com^
 ||yourchain.info^
+||yourdatingnew.com^
 ||yourdestinationlink.com^
 ||yourerc.actonservice.com^
 ||yourfuture.walsh.edu^
@@ -105616,6 +105768,7 @@
 ||zipinaccurateoffering.com^
 ||zipitnow.cfd^
 ||zippercontinual.com^
+||zipperszebecs.com^
 ||zippyfrog.co^
 ||ziqniduy.com^
 ||ziqrso.24mx.no^
