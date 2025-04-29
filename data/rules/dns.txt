@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-04-29 09:52:55（北京时间）
+! Version: 2025-04-29 20:50:15（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 104986
+! Total count: 104963
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -3714,7 +3714,6 @@
 ||11b5e84fb9.com^
 ||11b6n4ty2x3.taxliencode.com^
 ||11dyw.com^
-||11f116c2ac.8da21bba7c.com^
 ||11g1ip22h.de^
 ||12.com^
 ||12.cookcai.com^
@@ -5523,7 +5522,6 @@
 ||1worlditsolutions.com^
 ||1xb.icu^
 ||1xlite-016702.top^
-||1xlite-4262965.top^
 ||1xlite-503779.top^
 ||1xlite-522762.top^
 ||1xzf53lo.xyz^
@@ -8860,7 +8858,6 @@
 ||3599613.notify6.com^
 ||3599613.notifysrv.com^
 ||3599727.notify6.com^
-||35a0f8d201.1c0b4df73a.com^
 ||35volitantplimsoles5.com^
 ||360.anatic.net^
 ||3600.gofenews.com^
@@ -9725,7 +9722,6 @@
 ||4025.reminews.com^
 ||4026.reminews.com^
 ||4027.gofenews.com^
-||4027d86a39.542cf0845e.com^
 ||4028412.notify6.com^
 ||4028414.notify6.com^
 ||4029.reminews.com^
@@ -10218,7 +10214,6 @@
 ||4297.gofenews.com^
 ||4298194.notify6.com^
 ||4299.reminews.com^
-||42a63fe825.5edc9c9218.com^
 ||42a95337ac.07a243cfe3.com^
 ||42ce2b0955.com^
 ||42d9c0e6fb.com^
@@ -11412,7 +11407,6 @@
 ||5.lookinews.com^
 ||5.notifysrv.com^
 ||5.y2sysv81v.com^
-||5001.url25fatm.com^
 ||5002.jemonews.com^
 ||5002.reminews.com^
 ||5003.reminews.com^
@@ -12072,7 +12066,6 @@
 ||6244.reminews.com^
 ||6256.gofenews.com^
 ||6258.reminews.com^
-||625ba66634.4d3b2375a6.com^
 ||6263.gofenews.com^
 ||6263.reminews.com^
 ||6264.luronews.com^
@@ -18870,7 +18863,6 @@
 ||ab823c0616.3397afa9b2.com^
 ||ab913aa797e78b3.com^
 ||ab93t2kc.de^
-||ab9a9bd665.ae83a82a8d.com^
 ||aba9e4d25f.com^
 ||abacho.net^
 ||abacusnet.info^
@@ -19838,6 +19830,7 @@
 ||ad.flipboard.com^
 ||ad.foxnetworks.com^
 ||ad.fx168api.com^
+||ad.gameley.com^
 ||ad.games.ch^
 ||ad.genybet.fr^
 ||ad.gmw.cn^
@@ -20972,6 +20965,7 @@
 ||ads-redis.ecn.cl^
 ||ads-resources.waze.com^
 ||ads-router-noneu.truecaller.com^
+||ads-sdk-api.ranfenghd.com^
 ||ads-sdk.mattel163.com^
 ||ads-sdk.nianticlabs.com^
 ||ads-server.mxplay.com^
@@ -21479,6 +21473,7 @@
 ||adsdaq.com^
 ||adsdk.com^
 ||adsdk.microsoft.com^
+||adsdk.vivo.com.cn^
 ||adsdk.vrvm.com^
 ||adsdk.yandex.ru^
 ||adsdot.ph^
@@ -22083,6 +22078,7 @@
 ||adx.opera.com^
 ||adx.phunuadong.vn^
 ||adx.sogaha.cn^
+||adx.tuia.cn^
 ||adx.xemvtv.net^
 ||adx.xtv.vn^
 ||adx1.com^
@@ -28460,7 +28456,6 @@
 ||bcd810ade1.4d7756473b.com^
 ||bcdllh.esprit.co.uk^
 ||bcdn.cpmstar.com^
-||bcec266926.5d22c28634.com^
 ||bcf8b298d8.6ce5e6f9fc.com^
 ||bcfads.com^
 ||bcfd48bbca.660a9baa02.com^
@@ -29341,7 +29336,6 @@
 ||bismetrics.experian.com^
 ||bismulradocd.com^
 ||bison.actonservice.com^
-||bison.equals.community^
 ||bison.joshhanley.com.au^
 ||bison.streamclocks.com^
 ||bison.stuffmatic.com^
@@ -31123,7 +31117,6 @@
 ||c1595223cf.com^
 ||c16fd5228c.73a435bfaf.com^
 ||c172a66e69.com^
-||c1a6a94262.4a1c2f215f.com^
 ||c1b891f5ff.com^
 ||c1exchange.com^
 ||c1hit.zerkalo.io^
@@ -32436,7 +32429,6 @@
 ||cf5124e9d0.cbdbda0256.com^
 ||cf78a82187.d03476c640.com^
 ||cf852ff956.eef857d1fa.com^
-||cf9c86d5de.f33207dc6c.com^
 ||cf9e554a8a.4353740d36.com^
 ||cfa.fidelity.com^
 ||cfa66ba521.b194c1c862.com^
@@ -37477,7 +37469,6 @@
 ||d5465f9d11.com^
 ||d55875dd70.03db0d5d14.com^
 ||d58353af9f.f9a77ca6b8.com^
-||d58f989012.com^
 ||d5d3sg85gu7o6.cloudfront.net^
 ||d5db478dde.com^
 ||d5em5plenp2k5.cloudfront.net^
@@ -43246,6 +43237,7 @@
 ||environmental3x.fun^
 ||envisageasks.com^
 ||envoystormy.com^
+||enwuamw.top^
 ||enzav.xyz^
 ||enzymescapitan.click^
 ||eo.pearlinsurance.com^
@@ -45293,7 +45285,6 @@
 ||filter.revrtb.net^
 ||filter.ripamatic.com^
 ||filter.rocoads.com^
-||filter.rtbzone.com^
 ||filter.rtxfeed.com^
 ||filter.safesearchguard.com^
 ||filter.saroadexchange.com^
@@ -46570,6 +46561,7 @@
 ||fvcm.net^
 ||fvcwqkkqmuv.com^
 ||fvds.ru^
+||fvitteilse.com^
 ||fvmiafwauhy.fun^
 ||fvohyywkbc.com^
 ||fvuitt.alibabuy.com^
@@ -49943,6 +49935,7 @@
 ||hbxmdf.icu^
 ||hby7.destinia.it^
 ||hc-analytics.idp.clogin.att.com^
+||hc-ssp.sm.cn^
 ||hc.uralweb.ru^
 ||hccoeutg.com^
 ||hcdnpe.iareduceri.ro^
@@ -50973,7 +50966,6 @@
 ||hoverclassicalroused.com^
 ||hoverfly.cdengine.co.uk^
 ||hoverfly.cyberbytesinc.com^
-||hoverfly.dailyblocks.tv^
 ||hoverfly.papercrowns.com^
 ||hoverfly.wholeheartedceremonies.com.au^
 ||hoverfly.winchdesign.cn^
@@ -65035,6 +65027,7 @@
 ||mihaivibsaz.net^
 ||mihephypty.com^
 ||mihjpeok.com^
+||mihoutao1868.github.io^
 ||mikellli.com^
 ||mikelperaia.openapp.link^
 ||mikeydope.click^
@@ -66033,6 +66026,7 @@
 ||msbainfo.fbe.hku.hk^
 ||msboul.gruenwelt.de^
 ||msdk.qq.com^
+||msdk.voiceads.cn^
 ||mseeru.faz.net^
 ||msehm.com^
 ||msfumbsqosjdg.xyz^
@@ -66291,6 +66285,7 @@
 ||mwbhkv.plasico.bg^
 ||mwbilx.pisos.com^
 ||mwclanfwvgkje.com^
+||mwcnmtx.top^
 ||mweb-hb.presage.io^
 ||mwerilxx.top^
 ||mweriox.top^
@@ -68531,7 +68526,6 @@
 ||offfurreton.com^
 ||offhandclubhouse.com^
 ||office1266.fun^
-||officeclouddriveshared365.com^
 ||officerdiscontentedalley.com^
 ||officetablntry.org^
 ||officialkmspico.com^
@@ -92371,9 +92365,6 @@
 ||tq-eu.boardpress-a.online^
 ||tq-eu.boardpress-b.online^
 ||tq-eu.boardpress-c.online^
-||tq-eu.clouback-1.online^
-||tq-eu.clouback-3.online^
-||tq-eu.clouback-4.online^
 ||tq-eu.dkswshap-2.online^
 ||tq-eu.dkswshap-3.online^
 ||tq-eu.eopuzol1.online^
@@ -92397,9 +92388,6 @@
 ||tq.boardpress-a.online^
 ||tq.boardpress-b.online^
 ||tq.boardpress-c.online^
-||tq.clouback-1.online^
-||tq.clouback-3.online^
-||tq.clouback-4.online^
 ||tq.dkswshap-1.online^
 ||tq.dkswshap-2.online^
 ||tq.dkswshap-3.online^
@@ -95987,7 +95975,6 @@
 ||turtle.mushtache.com^
 ||turtle.mydataroom.io^
 ||turtle.olivier.cx^
-||turtle.sid.scot^
 ||tururu.info^
 ||tusheedrosep.net^
 ||tusno.com^
@@ -98156,7 +98143,6 @@
 ||veqvek.thebeaverton.com^
 ||veqvek.tsn.ca^
 ||ver-pelis.me^
-||ver1f3y.com^
 ||verbdruggedcommiserate.com^
 ||verbsponsor.com^
 ||verbwarilyclotted.com^
@@ -101040,6 +101026,7 @@
 ||wwjtdjj.cn^
 ||wwnscv.myspringfield.com^
 ||wwok04281kl.com^
+||wwok04291kl.com^
 ||wwokkf.laredoute.ru^
 ||wwow.xyz^
 ||wwowww.xyz^
@@ -102833,9 +102820,6 @@
 ||xml-eu-v4.cachegorilla.com^
 ||xml-eu-v4.clickmi.net^
 ||xml-eu-v4.clkfst.com^
-||xml-eu-v4.clouback-1.online^
-||xml-eu-v4.clouback-3.online^
-||xml-eu-v4.clouback-4.online^
 ||xml-eu-v4.cpmvibes.com^
 ||xml-eu-v4.dkswshap-1.online^
 ||xml-eu-v4.dkswshap-2.online^
@@ -102998,9 +102982,6 @@
 ||xml-v4.cachegorilla.com^
 ||xml-v4.clickmi.net^
 ||xml-v4.clkfst.com^
-||xml-v4.clouback-1.online^
-||xml-v4.clouback-3.online^
-||xml-v4.clouback-4.online^
 ||xml-v4.contentsrch.com^
 ||xml-v4.conxstream.com^
 ||xml-v4.cpmvibes.com^
@@ -103167,9 +103148,6 @@
 ||xml.clixcrafts.com^
 ||xml.clixportal.com^
 ||xml.clixwells.com^
-||xml.clouback-1.online^
-||xml.clouback-3.online^
-||xml.clouback-4.online^
 ||xml.conxstream.com^
 ||xml.cpmvibes.com^
 ||xml.digiteci.com^
@@ -104803,7 +104781,6 @@
 ||zozwyc.moscot.com^
 ||zpashl.amgakuin.co.jp^
 ||zpbpenn.com^
-||zpfknyj21.com^
 ||zpgetworker11.com^
 ||zpilkesyasa.com^
 ||zpipacuz-lfa.vip^
