@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-04-30 09:52:26（北京时间）
+! Version: 2025-04-30 20:45:51（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 105034
+! Total count: 105038
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -50197,6 +50197,7 @@
 ||hencesharply.com^
 ||hengradualtroops.com^
 ||henqnv.top^
+||hentai2read.com/ark/*.js^
 ||hentaibiz.com^
 ||hentaicounter.com^
 ||hentaigold.net^
@@ -68781,6 +68782,7 @@
 ||oklstupu.com^
 ||okmwfq.xyz^
 ||oko.net^
+||okpl04301ai.com^
 ||okpp01021.xyz^
 ||okpp01030.xyz^
 ||okpp01031.xyz^
@@ -74500,6 +74502,7 @@
 ||qnuzwe.nomanwalksalone.com^
 ||qnvwjpr.icu^
 ||qnwkbv.bestsecret.nl^
+||qnwuamy.top^
 ||qnyysdideo.com^
 ||qnzczf.idc-otsuka.jp^
 ||qo2.fun^
@@ -92171,6 +92174,7 @@
 ||toonujoops.net^
 ||toopsoug.net^
 ||tooraicush.net^
+||tooreldretpl.com^
 ||toothbrushlimbperformance.com^
 ||toothcauldron.com^
 ||toots-a.akamaihd.net/priority/pushdown^
