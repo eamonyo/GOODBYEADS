@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-04-30 20:45:51（北京时间）
+! Version: 2025-05-01 10:01:24（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 105038
+! Total count: 105083
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -14970,6 +14970,7 @@
 ||a08387be3d.com^
 ||a0905c77de.com^
 ||a098a4ad81.com^
+||a0b5779711.com^
 ||a0b8b4e910.b10ca28321.com^
 ||a0de95822c.856d79ad49.com^
 ||a1.289.com^
@@ -19505,6 +19506,7 @@
 ||acornfacilitatechecking.com^
 ||acornfarmerconnate.com^
 ||acornpointlodge.com^
+||acorusdawdler.com^
 ||acoustoopticmodulator.com^
 ||acproyectos.com^
 ||acq-au.americanexpress.com^
@@ -20094,16 +20096,26 @@
 ||adasiaholdings.com^
 ||adasset.ethersaga.online^
 ||adasset.flixfiend.top^
+||adat.agrokep.vg.hu^
 ||adat.borsonline.hu^
+||adat.figyelo.hu^
 ||adat.freemail.hu^
+||adat.hirtv.hu^
 ||adat.ingatlanbazar.hu^
+||adat.kisalfold.hu^
 ||adat.koponyeg.hu^
 ||adat.life.hu^
+||adat.magyarnemzet.hu^
 ||adat.mandiner.hu^
+||adat.metropol.hu^
 ||adat.mindmegette.hu^
+||adat.nemzetisport.hu^
 ||adat.origo.hu^
+||adat.ripost.hu^
+||adat.she.life.hu^
 ||adat.travelo.hu^
 ||adat.veol.hu^
+||adat.vg.hu^
 ||adat.videa.hu^
 ||adb-analytics.live-now.com^
 ||adb-secured.kijk.nl^
@@ -20582,6 +20594,7 @@
 ||admanagement.ch^
 ||admanager.btopenworld.com^
 ||admanager.carsoup.com^
+||admanager.magyarhirlap.hu^
 ||admangrauc.com^
 ||admangrsw.com^
 ||admanmedia.com^
@@ -23107,6 +23120,7 @@
 ||alligator.crousille.ch^
 ||alligator.remotecyberwork.com^
 ||allinsurance.allinsure.ca^
+||allislagoons.top^
 ||allkmbr.icu^
 ||allloveydovey.fun^
 ||allmobexpo.com^
@@ -26840,6 +26854,7 @@
 ||asxxlo.interflora.es^
 ||at*.doubanio.com^
 ||at-adserver.alltop.com^
+||at-af.outfit7.com^
 ||at-cddc.actu-juridique.fr^
 ||at-cdn.swisscom.ch^
 ||at-ecomm.levi.com^
@@ -29194,6 +29209,7 @@
 ||bidclix.com^
 ||bidclix.net^
 ||bidder.criteo.com^
+||bidder.dsp.outfit7.com^
 ||bidder.mdspinc.com^
 ||bidder.mediams.mb.softbank.jp^
 ||bidder.newspassid.com^
@@ -29284,6 +29300,7 @@
 ||binderyvisage.shop^
 ||bindingtimetablejosie.com^
 ||bindirect.click^
+||binesyorker.com^
 ||bineukdwithme.com^
 ||bineukdwithmef.info^
 ||bineukdwithmef.org^
@@ -29371,6 +29388,7 @@
 ||biturl.co^
 ||bitx.tv^
 ||biv.gazeta.pl^
+||bivinyltarve.com^
 ||bivos.xyz^
 ||bivqasthu.com^
 ||bivrhywwuwzo.com^
@@ -29926,6 +29944,7 @@
 ||borakmolests.top^
 ||bordeaux.futurecdn.net^
 ||bordsnewsjule.com^
+||borelmazatec.com^
 ||boreusorgans.top^
 ||borghjism.com^
 ||borhaj.com^
@@ -30417,6 +30436,7 @@
 ||britishinquisitive.com^
 ||brittleraising.com^
 ||brittlesturdyunlovable.com^
+||britzkanunting.com^
 ||brixfdbdfbtp.com^
 ||brjjkd.calzedonia.com^
 ||brksxofnsadkb.xyz^
@@ -31233,6 +31253,7 @@
 ||ca.yangshengtv.com^
 ||ca06ef821c.com^
 ||ca2686564a.com^
+||ca2865fb41.com^
 ||ca3b526022.com^
 ||ca4psell23a4bur.com^
 ||ca50396581.ca137d80c3.com^
@@ -32595,6 +32616,8 @@
 ||chatbox-widget.botbanhang.vn^
 ||chatrobot.mia.gov.hu^
 ||chatsuptocachee.net^
+||chatterfretten.com^
+||chaubaungoalt.com^
 ||chauckee.net^
 ||chauffeurreliancegreek.com^
 ||chaugroo.net^
@@ -34407,6 +34430,7 @@
 ||config.unityads.unity3d.com^
 ||configurationluxuriantinclination.com^
 ||configure.adlermode.com^
+||configure.rayjump.com^
 ||confinemutual.com^
 ||confiningdrawshimmy.com^
 ||confirm.aon.com^
@@ -35913,6 +35937,7 @@
 ||culturaltracking.ru^
 ||culture.intermedes.com^
 ||culture.pandasuite.io^
+||culxawxafsw.com^
 ||cumbersomeduty.pro^
 ||cumfunply.live^
 ||cunlagadzwu.com^
@@ -41909,7 +41934,6 @@
 ||ederrassi.com^
 ||edgbas.com^
 ||edge-mobile-static.azureedge.net.iberostar.com^
-||edge.adobedc.net^
 ||edge.ads.twitch.tv^
 ||edge.afco.com^
 ||edge.bell.ca^
@@ -46772,6 +46796,7 @@
 ||gadsabs.com^
 ||gadsatz.com^
 ||gadslimz.com^
+||gadsme.com^
 ||gadspms.com^
 ||gadspmz.com^
 ||gadssystems.com^
@@ -49927,6 +49952,8 @@
 ||hazoopso.net^
 ||hazuro.online^
 ||hb-247.com^
+||hb-af-us-central1.outfit7.com^
+||hb-failover-stpceyl2ua-uw.a.run.app^
 ||hb.headbidder.net^
 ||hb.rayjump.com^
 ||hb.vhsrv.com^
@@ -50824,6 +50851,7 @@
 ||hoodboth.com^
 ||hoodentangle.com^
 ||hoodingluster.com^
+||hoodlumbragget.com^
 ||hoodoosdonsky.com^
 ||hoofexcessively.com^
 ||hooglaibou.net^
@@ -51982,6 +52010,7 @@
 ||illuminatelocks.com^
 ||illuminous.xyz^
 ||illusiondramaexploration.com^
+||illusorslacks.shop^
 ||illustrious-challenge.pro^
 ||illustriousoatmeal.com^
 ||ilnfdq.cybozu.co.jp^
@@ -52884,6 +52913,7 @@
 ||indetiske.ya.ru^
 ||indexad.net^
 ||indexeslaughter.com^
+||indexstat.index.hu^
 ||indexstats.com^
 ||indexww.com^
 ||india.notifysrv.com^
@@ -56666,6 +56696,7 @@
 ||koutobey.net^
 ||kovvild.com^
 ||kowhinauwoulsas.net^
+||kowj.cn^
 ||koyshxlxljv.com^
 ||koytqo.xyz^
 ||kpaagnosdzih.com^
@@ -60967,6 +60998,7 @@
 ||mapp.yesstyle.com^
 ||mapss.icu^
 ||maquiags.com^
+||marangmarches.com^
 ||marapcana.online^
 ||marasgumpus.com^
 ||marathon.aomg5bzv7.com^
@@ -68783,6 +68815,7 @@
 ||okmwfq.xyz^
 ||oko.net^
 ||okpl04301ai.com^
+||okpl05010ai.com^
 ||okpp01021.xyz^
 ||okpp01030.xyz^
 ||okpp01031.xyz^
@@ -69205,6 +69238,7 @@
 ||oncourselearning.actonservice.com^
 ||oncustomer.asia^
 ||ondate.xyz^
+||ondatraflemish.com^
 ||ondbazxakr.com^
 ||ondewottom.com^
 ||ondraits.com^
@@ -70309,6 +70343,7 @@
 ||ozcarcupboard.com^
 ||ozdoir.meundies.com^
 ||ozectynptd.com^
+||ozersookugnoox.net^
 ||ozhmig.cn^
 ||ozjga.top^
 ||ozkkuy.fabianafilippi.com^
@@ -73756,6 +73791,7 @@
 ||publicschoolworks.actonservice.com^
 ||publictelemetry.tophat.com^
 ||publicus.com^
+||publinker.com^
 ||publipagos.com^
 ||publish.tagstorm.com^
 ||publisherads.click^
@@ -76366,6 +76402,7 @@
 ||rgmmeff.icu^
 ||rgmseo.thejewellershop.com^
 ||rgrd.xyz^
+||rgtghulduk.com^
 ||rgwyljdsutb.com^
 ||rgzrys.hangikredi.com^
 ||rh.adp.ca^
@@ -79208,6 +79245,7 @@
 ||sdjthl.tvguide.dk^
 ||sdk-ab-config.qquanquan.com^
 ||sdk-analytics-web.cloud.itau.com.br^
+||sdk-api.kidoz.net^
 ||sdk-cache.video.ptqy.gitv.tv^
 ||sdk-cdn.optimove.net^
 ||sdk-log-inter.youdao.com^
@@ -92014,6 +92052,7 @@
 ||tnpads.xyz^
 ||tns.simba.taobao.com^
 ||tnt.yemeksepeti.com^
+||tnwuami.top^
 ||tnxxtx.crepeerase.com^
 ||tnz3.carrefour-banque.fr^
 ||tnzjrj.xyz^
@@ -94007,9 +94046,11 @@
 ||tracker-dot-optimeeze.appspot.com^
 ||tracker-mw-zlivestream.zapps.vn^
 ||tracker-rec.smart-bdash.com^
+||tracker-remp.magyarnarancs.hu^
 ||tracker-tds.info^
 ||tracker-v4.gamedock.io^
 ||tracker-zlivestream.zapps.vn^
+||tracker.24xtra.hu^
 ||tracker.520call.me^
 ||tracker.adbinead.com^
 ||tracker.affiliate.iqbroker.com^
@@ -96353,6 +96394,7 @@
 ||uapi.ads.heytapmobi.com^
 ||uaqcui.tennis-point.fr^
 ||uaqdgrfr.icu^
+||uaqe.cn^
 ||uarating.com^
 ||uarrdg.landsofamerica.com^
 ||uasmdd.icaniwill.no^
@@ -97845,6 +97887,7 @@
 ||v.cdn4.life^
 ||v.ctrl.blog^
 ||v.gdt.qq.com^
+||v.kidoz.net^
 ||v.laogu.wang/template/*/images/g_js^
 ||v.minu.be^
 ||v.myvoleo.com^
@@ -98752,6 +98795,7 @@
 ||vmjdpk.repairclinic.com^
 ||vmjr.cn^
 ||vmkoqak.com^
+||vmlrxs.top^
 ||vmmcdn.com^
 ||vmring.cc^
 ||vmsspl.tenamall.co.kr^
@@ -103846,6 +103890,7 @@
 ||yeah1publishing.com^
 ||yealnk.com^
 ||yearnstocking.com^
+||yeastedbushpig.top^
 ||yeastfeukufund.org^
 ||yebvpc.gardengoodsdirect.com^
 ||yeesihighlyre.info^
