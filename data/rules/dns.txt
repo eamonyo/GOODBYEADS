@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-05-04 10:02:17（北京时间）
+! Version: 2025-05-04 20:42:04（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 104973
+! Total count: 105003
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -18742,7 +18742,6 @@
 ||aaa.aqualink.tv^
 ||aaa.tumanyi.com^
 ||aaa.vidox.net^
-||aaa45e90eb.com^
 ||aaa85877ba.com^
 ||aaaa.jawfp2.org^
 ||aaaa.nocor.jp^
@@ -23030,6 +23029,8 @@
 ||alienatecommit.com^
 ||alienaterepellent.com^
 ||alietpulsers.top^
+||aliexpress.hu^
+||aliexpressz.hu^
 ||alifeupbrast.com^
 ||alightbornbell.com^
 ||alightdrugwith.com^
@@ -27696,6 +27697,8 @@
 ||azotizeloofas.com^
 ||azq.zozo.jp^
 ||azscgj.penningtons.com^
+||azsiacenter.hu^
+||azsiacentrum.hu^
 ||azskk.com^
 ||azsqkrc.icu^
 ||aztecash.com^
@@ -29664,6 +29667,7 @@
 ||bmiimaging.actonservice.com^
 ||bmjidc.xyz^
 ||bmjmse.softsurroundings.com^
+||bmjntbkihrtj.com^
 ||bmjs.xzw.com^
 ||bmkz57b79pxk.com^
 ||bmly.impots.gouv.fr^
@@ -31133,6 +31137,7 @@
 ||c26817682b.com^
 ||c26b742fa3.com^
 ||c27902fb3d.com^
+||c285e18a9b.com^
 ||c296565d82.f32bcceea3.com^
 ||c2a0076d.xyz^
 ||c2dbb597b0.com^
@@ -31937,7 +31942,6 @@
 ||cdn-server.top^
 ||cdn-service.com^
 ||cdn-t.b5c1d2e8c9982e3b965a27ac72ru7284cc.com^
-||cdn-v3.conductrics.net^
 ||cdn.007moms.com^
 ||cdn.1vag.com^
 ||cdn.2024jphatomenesys35.top^
@@ -33282,7 +33286,6 @@
 ||click.junmediadclikrmdi.com^
 ||click.junmediadirect.com^
 ||click.kataweb.it^
-||click.kmindex.ru^
 ||click.liftoff.io^
 ||click.lmbcustomersupport.com^
 ||click.mail.carousell.com^
@@ -42143,6 +42146,7 @@
 ||efreecode.com^
 ||efrnedmiralpenb.info^
 ||efsqwi.krueger-dirndl.de^
+||efullofeedshen.com^
 ||efully.info^
 ||efuxqe.tatilbudur.com^
 ||efvvoyok.com^
@@ -43382,6 +43386,7 @@
 ||erepublic.actonservice.com^
 ||eresultedinncre.info^
 ||ereyoumate.org^
+||erfoslajxhoc.com^
 ||erg.ihclam.cn^
 ||ergadx.com^
 ||ergiekszra.com^
@@ -44026,6 +44031,7 @@
 ||ewingruddish.shop^
 ||ewituhinlargeconsu.com^
 ||ewjhic.cn^
+||ewltkoajehyzr.click^
 ||ewnkfnsajr.com^
 ||eworfe.babyartikel.de^
 ||ewouldlookina.org^
@@ -46344,6 +46350,7 @@
 ||frutwafiwah.com^
 ||fruvumoxw.com^
 ||fryawlauk.com^
+||fryboldlymalice.com^
 ||frycmisfixa.com^
 ||frycornwhole.com^
 ||frztrk.beaute-test.com^
@@ -49816,6 +49823,7 @@
 ||hasdjksndjk.com^
 ||hasdrs.com^
 ||hash-hash-tag.com^
+||hash.trafficmanager.net^
 ||hashcoin.co^
 ||hashforcash.us^
 ||hashidsookoksee.net^
@@ -50206,6 +50214,7 @@
 ||herma-tor.com^
 ||hermaturse.com^
 ||hermes.allo-media.net^
+||hermitslistred.shop^
 ||herodiessujed.org^
 ||heroinalerttactical.com^
 ||heromainland.com^
@@ -56276,6 +56285,7 @@
 ||kimsacka.net^
 ||kimxzutzutug.com^
 ||kimzucogjo.com^
+||kinaiwebaruhaz.hu^
 ||kinarilyhukelpfulin.com^
 ||kind-lecture.com^
 ||kindads.com^
@@ -56498,6 +56508,7 @@
 ||knowledge.vaisala.com^
 ||knowledgeable-tree.com^
 ||knowmakeshalfmoon.com^
+||known-table.pro^
 ||knownwarn.com^
 ||knpfx.life^
 ||kntodvofiyjjl.xyz^
@@ -56506,6 +56517,7 @@
 ||knul.cn^
 ||knutenegros.pro^
 ||knwuamd.top^
+||knwucnd.top^
 ||knymhv.ariat.com^
 ||knzmrw.infojobs.net^
 ||knzqjr.pult.ru^
@@ -57770,6 +57782,7 @@
 ||lhpigkujw.com^
 ||lhrzel.enterprise.com.tr^
 ||lhukudauwklhd.xyz^
+||lhwimdpdjajfx.rocks^
 ||lhxolz.icu^
 ||lhzulh.tribeamrapali.com^
 ||li.blogtrottr.com^
@@ -59368,7 +59381,6 @@
 ||log.polarisoffice.com^
 ||log.popin.cc^
 ||log.prezi.com^
-||log.propermessage.io^
 ||log.pullcenter.live^
 ||log.pvpgang.com^
 ||log.quora.com^
@@ -60902,6 +60914,7 @@
 ||mapiolaviwrba.com^
 ||mapixl.com^
 ||maplecurriculum.com^
+||maplin.hu^
 ||mapp.biryanibykilo.com^
 ||mapp.ewm.co.uk^
 ||mapp.jysk.dk^
@@ -65012,6 +65025,7 @@
 ||miknijrcaf.com^
 ||mikobqcusg.com^
 ||mikop.xyz^
+||mikroelektronik.hu^
 ||miksoalroobs.net^
 ||mildcauliflower.com^
 ||mildjav11.fun^
@@ -67002,6 +67016,7 @@
 ||neverthelessamazing.com^
 ||neverthelessdepression.com^
 ||nevillepreserved.com^
+||nevtrelathgd.com^
 ||new-access802.net^
 ||new-incoming.email^
 ||new-new-years.com^
@@ -68715,6 +68730,7 @@
 ||okpl05021ai.com^
 ||okpl05030ai.com^
 ||okpl05040ai.com^
+||okpl05041ai.com^
 ||okpp01021.xyz^
 ||okpp01030.xyz^
 ||okpp01031.xyz^
@@ -71265,6 +71281,7 @@
 ||peterjoggle.com^
 ||pethaphegauftup.xyz^
 ||petherobjure.top^
+||petpoolalarm.com^
 ||petrelbeheira.website^
 ||petrifacius.com^
 ||petrolgraphcredibility.com^
@@ -71888,6 +71905,7 @@
 ||pl.codetheweb.blog^
 ||pl.connatix.com^
 ||pl.cp31.ott.cibntv.net^
+||pl.elements.video^
 ||pl.ethan.link^
 ||pl.fashmoms.com^
 ||pl.getfamealy.com^
@@ -73168,7 +73186,6 @@
 ||profitpeelers.com^
 ||profitrumour.com^
 ||profitsence.com^
-||profitshare.bg^
 ||proforums.com^
 ||profoundbagpipeexaggerate.com^
 ||profoundflourishing.com^
@@ -74496,6 +74513,7 @@
 ||qqosk05030llo.com^
 ||qqosk05031llo.com^
 ||qqosk05040llo.com^
+||qqosk05041llo.com^
 ||qqqdsrjovklsr.today^
 ||qqqwes.com^
 ||qqrxk.club^
@@ -76536,6 +76554,7 @@
 ||rmuahxbcepu.com^
 ||rmuogjdip.com^
 ||rmuuspy.com^
+||rmvvawqleqrov.top^
 ||rmwzbombkqelv.top^
 ||rmxads.com^
 ||rmxhti.zpacks.com^
@@ -80271,6 +80290,7 @@
 ||sexfree314.935ft4j96.com^
 ||sexidude.com^
 ||sexlist.com^
+||sexmeup.hu^
 ||sexmoney.com^
 ||sexpieasure.com^
 ||sexpussynude.com/wp-content/plugins/da-unblock^
@@ -80373,10 +80393,13 @@
 ||sgsb.aba.com^
 ||sgsosi.xyz^
 ||sgstats.com^
+||sgtm.alfinans.dk^
 ||sgtm.anita.com^
 ||sgtm.atg.se^
+||sgtm.aziendechesifinanzianodasole.com^
 ||sgtm.blume2000.de^
 ||sgtm.casamundo.de^
+||sgtm.comprend.com^
 ||sgtm.csas.cz^
 ||sgtm.depaul.edu^
 ||sgtm.fewoferien.de^
@@ -80384,7 +80407,9 @@
 ||sgtm.holidayhomes.com^
 ||sgtm.hometogo.pt^
 ||sgtm.iu-fernstudium.de^
+||sgtm.joga.dk^
 ||sgtm.kaspersky.de^
+||sgtm.lovi.fi^
 ||sgtm.macrolibrarsi.it^
 ||sgtm.mapei.com^
 ||sgtm.milestonesys.com^
@@ -80392,6 +80417,7 @@
 ||sgtm.mycall.no^
 ||sgtm.myprotein.jp^
 ||sgtm.nisulaforest.com^
+||sgtm.nordicbranch.com^
 ||sgtm.onecall.no^
 ||sgtm.ookla.com^
 ||sgtm.open.ac.uk^
@@ -81238,6 +81264,7 @@
 ||skinnedunsame.com^
 ||skinssailing.com^
 ||skipdissatisfactionengland.com^
+||skippaccustom.org^
 ||skipperx.net^
 ||skirmishbabencircle.com^
 ||skirtastelic.shop^
@@ -86053,6 +86080,7 @@
 ||ssfllp.actonservice.com^
 ||ssgamf.stories.com^
 ||ssgg.chazidian.com^
+||ssgtbfyxdlch.com^
 ||sshhfy.ray-ban.com^
 ||ssigpc.servusmarktplatz.com^
 ||ssindserving.com^
@@ -90241,6 +90269,7 @@
 ||tarantula.searchbox.tech^
 ||tarantula.tuxedo.media^
 ||tarcavbul.com^
+||tardtodtimpi.com^
 ||targad.de^
 ||targaubs.com^
 ||targechirtil.net^
@@ -91229,6 +91258,7 @@
 ||thecitydating.com^
 ||thecoidchirped.top^
 ||thecoinworsttrack.com^
+||thecontentserver.com^
 ||thecoreadv.com^
 ||thedating-mix.top^
 ||theefiwu.net^
@@ -94440,7 +94470,6 @@
 ||tracking.info.rochesterknighthawks.com^
 ||tracking.info.servicenow.com^
 ||tracking.info.zetes.com^
-||tracking.injoyalot.com^
 ||tracking.innovamarketinsights.com^
 ||tracking.insead.edu^
 ||tracking.insperity.com^
@@ -99048,6 +99077,7 @@
 ||vvvvdbrrt.com^
 ||vw1.gestimnogo.net^
 ||vwagkipi.com^
+||vwahacrubri.com^
 ||vwakpz.vidri.com.sv^
 ||vwchbsoukeq.xyz^
 ||vweixinthumb.tc.qq.com^
