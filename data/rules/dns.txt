@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-05-04 20:42:04（北京时间）
+! Version: 2025-05-05 09:57:08（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 105003
+! Total count: 105024
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -3634,6 +3634,7 @@
 ||1164.reminews.com^
 ||1165.gofenews.com^
 ||1165.reminews.com^
+||1165571007.rsc.cdn77.org^
 ||1166.gofenews.com^
 ||1166.reminews.com^
 ||1167.gofenews.com^
@@ -4534,6 +4535,7 @@
 ||1531.gofenews.com^
 ||1531.jemonews.com^
 ||1531.reminews.com^
+||1531317231.rsc.cdn77.org^
 ||1532.gofenews.com^
 ||1532.lootynews.com^
 ||1532.reminews.com^
@@ -6702,7 +6704,6 @@
 ||2712.reminews.com^
 ||2713.5clo0xmbf.com^
 ||2713.reminews.com^
-||271395.com^
 ||2714.gofenews.com^
 ||2715.reminews.com^
 ||2716.gofenews.com^
@@ -23426,7 +23427,6 @@
 ||amithoutsoo.net^
 ||amitracks.actonservice.com^
 ||amjllwblmlzbm.top^
-||amjllwbovlvbb.top^
 ||amjllwbovlyba.top^
 ||amjoltiktor.com^
 ||amjsiksirkh.com^
@@ -27697,7 +27697,6 @@
 ||azotizeloofas.com^
 ||azq.zozo.jp^
 ||azscgj.penningtons.com^
-||azsiacenter.hu^
 ||azsiacentrum.hu^
 ||azskk.com^
 ||azsqkrc.icu^
@@ -28516,6 +28515,7 @@
 ||bd33500074.com^
 ||bd43e502ad.4f8303ce57.com^
 ||bd51static.com^
+||bd64dc73db.com^
 ||bd6afd7ab5.com^
 ||bd742.com^
 ||bd888.qizuang.com^
@@ -29760,6 +29760,7 @@
 ||boahnoy.com^
 ||boalawoa.xyz^
 ||boannre.com^
+||boannred.com^
 ||boar.hopehollow.com^
 ||boar.indieweb.org^
 ||boar.kostholdsveilederen.no^
@@ -29909,6 +29910,7 @@
 ||boostclic.com^
 ||boostcpm.su^
 ||booster-vax.com^
+||booster.osnova.io^
 ||boostog.net^
 ||bootesbillow.top^
 ||bootharchie.com^
@@ -33370,6 +33372,7 @@
 ||clickgate09.biz^
 ||clickhereforcellphones.com^
 ||clickidate.site^
+||clickins.slixa.com^
 ||clickintext.com^
 ||clickmedia.ro^
 ||clickmeniaads.com^
@@ -38188,6 +38191,7 @@
 ||data.online.clubeextra.com.br^
 ||data.online.paodeacucar.com^
 ||data.onlyyou.palladiumhotelgroup.com^
+||data.openerotik.com^
 ||data.orders.costco.com^
 ||data.ouigo.com^
 ||data.outbound.luxair.lu^
@@ -39950,7 +39954,6 @@
 ||dittopreen.top^
 ||ditwrite.com^
 ||divasoberly.top^
-||divehope.com^
 ||divekcl7q9fxi.cloudfront.net^
 ||diverhaul.com^
 ||divetroubledloud.com^
@@ -40911,6 +40914,7 @@
 ||dspultra.com^
 ||dspunion.com^
 ||dspx.tv^
+||dss1bi.com^
 ||dssddf33.fun^
 ||dsstrk.com^
 ||dst05lp2.net.mydays.de^
@@ -40956,6 +40960,7 @@
 ||dtprofit.com^
 ||dtq9oy2ckjhxu.cloudfront.net^
 ||dtqcpx.eskor.se^
+||dtqpbcylhw.com^
 ||dtr-onsite-feed.datarize.ai^
 ||dtrk.slimcdn.com^
 ||dtrurjpkugcsv.tech^
@@ -42198,6 +42203,7 @@
 ||ehungroundt.org^
 ||ehutzaug.life^
 ||ei-api.testlb-gwy.easyjet.com.edgekey.net.easyjet.com^
+||ei.monday.com^
 ||ei1s7b.cn^
 ||ei7.icu^
 ||eicyds.qoo10.jp^
@@ -43421,6 +43427,7 @@
 ||errlog.umeng.com^
 ||errnewlog.umeng.com^
 ||errolandtessa.com^
+||error-analytics-sessions-production.shopifysvc.com^
 ||error-collector.ted.com^
 ||error-tracking.reddit.com^
 ||error.videonow.ru^
@@ -54486,7 +54493,6 @@
 ||itchinglikely.com^
 ||itchingselfless.com^
 ||itcleffaom.com^
-||itdsmr.com^
 ||itelmesplanted.shop^
 ||itemdb.com^
 ||itemolgaer.com^
@@ -57778,6 +57784,7 @@
 ||lhlext.e-aircon.jp^
 ||lhmgoik.icu^
 ||lhmos.com^
+||lhoubcbpcaxhgg.com^
 ||lhp-mortgage.loanzify.com^
 ||lhpigkujw.com^
 ||lhrzel.enterprise.com.tr^
@@ -65815,7 +65822,6 @@
 ||mosrtaek.net^
 ||mosseegneertoo.xyz^
 ||mosspf.com^
-||mosspf.net^
 ||mostauthor.com^
 ||mostazoaptoare.net^
 ||mostcolonizetoilet.com^
@@ -68905,6 +68911,7 @@
 ||omjrzojitc.com^
 ||omjtca.emlakjet.com^
 ||omlahpewing.com^
+||omlcwooxhw.com^
 ||ommatht.com^
 ||omn.americanexpress.com^
 ||omn.costumesupercenter.com^
@@ -71737,6 +71744,7 @@
 ||pixel-a.basis.net^
 ||pixel-config.reddit.com^
 ||pixel-static.spotify.com^
+||pixel-storage.konnektu.ru^
 ||pixel-tracker.com^
 ||pixel.1und1.de^
 ||pixel.4pcdn.de^
@@ -73800,6 +73808,7 @@
 ||purgescholars.com^
 ||purifybaptism.guru^
 ||purp.sukaporn.com^
+||purple-hit.com^
 ||purple.mongodb.com^
 ||purpleads.io^
 ||purpleflag.net^
@@ -74341,6 +74350,7 @@
 ||qituduwios.com^
 ||qivaiw.com^
 ||qivsvu.creedboutique.com^
+||qiwqaagnaell.com^
 ||qixipi.kathykuohome.com^
 ||qiyeb.iaskbus.com^
 ||qiyegongqiu1.qiyegongqiu.com^
@@ -77220,6 +77230,7 @@
 ||rtb.nativeads.com^
 ||rtb.nowsrv.com^
 ||rtb.optidigital.com^
+||rtb.prod.carbonatixaudio.com^
 ||rtb.trafficfactory.com^
 ||rtb.videonow.ru^
 ||rtb.voiceads.cn^
@@ -80766,6 +80777,7 @@
 ||shjwhv.falsepeti.com^
 ||shlyapapodplesk.site^
 ||shoabibs.xyz^
+||shoacmoackaugnu.com^
 ||shoadessuglouz.net^
 ||shoagloumtoamir.net^
 ||shoagrauphee.net^
@@ -81350,6 +81362,7 @@
 ||slimads.vn^
 ||slimcdn.com^
 ||slimelump.com^
+||slimespell.com^
 ||slimingsewans.com^
 ||slimturpis.shop^
 ||slimytree.com^
@@ -91583,6 +91596,7 @@
 ||tiglon.davidroessli.com^
 ||tignuget.net^
 ||tigroulseedsipt.net^
+||tigubsovouwo.com^
 ||tiiytaekjajw.com^
 ||tiksoopta.net^
 ||tiktakz.xyz^
@@ -95304,6 +95318,7 @@
 ||triumphantplace.com^
 ||trivialbaseball.pro^
 ||trix.net^
+||trixblocka.com^
 ||trj.valuecommerce.com^
 ||trjfoagf.icu^
 ||trjs2.mediafin.be^
@@ -96986,6 +97001,7 @@
 ||untd.com^
 ||untidy-log.pro^
 ||untidyseparatelyintroduce.com^
+||untidytale.com^
 ||untilfamilythrone.com^
 ||untilpatientlyappears.com^
 ||untimburra.com^
@@ -100210,6 +100226,7 @@
 ||whgqqhcixaiau.com^
 ||whhasymvi.com^
 ||whiceega.com^
+||which-comfortable.pro^
 ||whichcandiedhandgrip.com^
 ||whidsugnoackili.net^
 ||whilstrorty.com^
@@ -103550,6 +103567,7 @@
 ||xuldtcip.icu^
 ||xulizui6.com^
 ||xulkervf.com^
+||xumolcafw.com^
 ||xunqrutsl.com^
 ||xunzbx.mon-abri-de-jardin.com^
 ||xuojhr.mobly.com.br^
@@ -103565,6 +103583,7 @@
 ||xuymgm.hostgator.mx^
 ||xvantage.ingrammicro.com^
 ||xvbwvle.com^
+||xvdoukdueffvab.com^
 ||xveenk.com^
 ||xvfyubhqjp.xyz^
 ||xvhgtyvpaav.xyz^
@@ -103585,7 +103604,6 @@
 ||xwlfmnfnffkixgm.com^
 ||xwlketvkzf.com^
 ||xwma.cn^
-||xwmr.com.cn^
 ||xwpoxv.birdies.com^
 ||xwpzlz.gemimarket.it^
 ||xwqea.com^
@@ -104176,6 +104194,7 @@
 ||yqorwz.weisshaus.at^
 ||yqp-oxzxjecq.world^
 ||yqqhbd.yotsuyaotsuka.com^
+||yqqv.cn^
 ||yr9n47004g.com^
 ||yrccils0spqnkc3.xyz^
 ||yremovementxvi.org^
@@ -104615,6 +104634,7 @@
 ||zhyeqw.mercury.ru^
 ||zi3nna.xyz^
 ||zi8ivy4b0c7l.com^
+||zibjls.top^
 ||ziblo.cloud^
 ||zicgoi.emmiegray.de^
 ||zidojrol.com^
@@ -104962,6 +104982,7 @@
 ||zxcdn.com^
 ||zxclan.com^
 ||zxcvbnmasdfghjklqwertyuiop.work^
+||zxiws.cn^
 ||zxmojgj.com^
 ||zxpaa.xyz^
 ||zxqiwe.cn^
