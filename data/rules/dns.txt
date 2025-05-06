@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-05-06 09:53:46（北京时间）
+! Version: 2025-05-06 20:49:37（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 105531
+! Total count: 105512
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -9734,7 +9734,6 @@
 ||3898378.notify6.com^
 ||3899.gofenews.com^
 ||3899.reminews.com^
-||38a3a42162.25e1657c6a.com^
 ||38dbfd540c.com^
 ||38ds89f8.de^
 ||38fbsbhhg0702m.shop^
@@ -13349,7 +13348,6 @@
 ||76ef.pandasuite.io^
 ||77.162.125.199^
 ||77.ogrt80r65.com^
-||770.th2mbxzqe.com^
 ||7701.reminews.com^
 ||7701534.emails.tntdrama.com^
 ||7704.deeginews.com^
@@ -13564,7 +13562,6 @@
 ||7cd77.v.fwmrm.net^
 ||7ce8c22128.62a77005fb.com^
 ||7d04b01f44.a3517b4a5f.com^
-||7d8c044232.74e7e0defc.com^
 ||7dd392cbcb.4edcc6cc27.com^
 ||7e0211e30b.044da016b3.com^
 ||7e2af564eb.5bf6d94b92.com^
@@ -13581,7 +13578,6 @@
 ||7fc0966988.com^
 ||7fc6635248.24ccdb8c44.com^
 ||7fc8.site^
-||7fcb44bf36.cc176a49cd.com^
 ||7fkm2r4pzi.com^
 ||7fva8algp45k.com^
 ||7gfs.com^
@@ -19759,7 +19755,6 @@
 ||acc.3gbizhi.com^
 ||acc.info.lumxpert.signify.com^
 ||acc.marketing.adobedxcusteng.com^
-||acc6ef1b4a.39963f5717.com^
 ||accanfkinrt.com^
 ||accecmtrk.com^
 ||accedemotorcycle.com^
@@ -21837,7 +21832,6 @@
 ||ads10.speedbit.com^
 ||ads180.com^
 ||ads2.brazzers.com^
-||ads2.gamecity.net^
 ||ads2.hsoub.com^
 ||ads2.jubii.dk^
 ||ads2.net-communities.co.uk^
@@ -23003,7 +22997,6 @@
 ||ahachi.dreamdenki.jp^
 ||ahadsply.com^
 ||ahalogy.com^
-||ahaoverturn.com^
 ||ahaurgoo.net^
 ||ahbdsply.com^
 ||ahbyjm.fiever.com.br^
@@ -23927,7 +23920,6 @@
 ||amp.rd.linksynergy.com^
 ||amp.services^
 ||ampcr.io^
-||amphibian.juergenhaller.at^
 ||amphibian.pinestc.com^
 ||amphibian.studionimbus.nl^
 ||amphibian.tboa.club^
@@ -24554,6 +24546,7 @@
 ||analytics.net.dz.jumia.com^
 ||analytics.netkeiba.com^
 ||analytics.newscred.com^
+||analytics.newsifier.nl^
 ||analytics.nextopia.net^
 ||analytics.ngs55.ru^
 ||analytics.nhattao.com^
@@ -28331,7 +28324,6 @@
 ||b5j6itccyluq.nofluffjobs.com^
 ||b607.dailylocal.com^
 ||b629.electronicdesign.com^
-||b64f2f4f5c.8596fa9360.com^
 ||b666.penzainform.ru^
 ||b668.record-bee.com^
 ||b6b2d31f7e.com^
@@ -31593,7 +31585,6 @@
 ||c2.gdt.qq.com^
 ||c2.l.qq.com^
 ||c22x1.xcdn.ovh^
-||c2333c6654.fa600c48a8.com^
 ||c24ca9e0d8.d170971757.com^
 ||c2529de2cf.com^
 ||c26817682b.com^
@@ -32358,7 +32349,6 @@
 ||cdanjoyner4374.myre.io^
 ||cdb670d960.com^
 ||cdbqmlngkmwkpvo.xyz^
-||cdcc8b193b.cc1063ceba.com^
 ||cdceed.de^
 ||cdcs34.fun^
 ||cdctwm.com^
@@ -34826,7 +34816,6 @@
 ||conceitsiryearling.com^
 ||conceivedtowards.com^
 ||conceivesaucerfalcon.com^
-||concentration2.fun^
 ||concentrationminefield.com^
 ||concerneddisinterestedquestioning.com^
 ||concernedwealth.pro^
@@ -39456,7 +39445,6 @@
 ||democratplayful.com^
 ||demojobsapp.epoise.com^
 ||demolishforbidhonorable.com^
-||demonstration2.fun^
 ||demonstrationsurgical.com^
 ||demonstrationtimer.com^
 ||demonstudent.com^
@@ -42502,7 +42490,6 @@
 ||eedshenwhent.com^
 ||eedsiwhussiy.net^
 ||eeedbcd951.914e9c7d17.com^
-||eeee1d61e9.39aecdfbc0.com^
 ||eeftoapekeeka.net^
 ||eegamaub.net^
 ||eegheecog.net^
@@ -43727,6 +43714,7 @@
 ||envisageasks.com^
 ||envoystormy.com^
 ||enwuamw.top^
+||enwucnw.top^
 ||enzav.xyz^
 ||enzymescapitan.click^
 ||eo.pearlinsurance.com^
@@ -49954,6 +49942,7 @@
 ||guserflexing.shop^
 ||gushfaculty.com^
 ||gusion.space^
+||gusoclji.com^
 ||gussame.com^
 ||gussbkpr.website^
 ||gussiespiffler.website^
@@ -54614,7 +54603,6 @@
 ||inventory-useast.rtbanalytica.com^
 ||invest.rubicoin.com^
 ||investhash.com^
-||investigation3x.fun^
 ||investigationsuperbprone.com^
 ||investment.lianest.co.jp^
 ||investments.aberdeenstandard.com^
@@ -54838,12 +54826,12 @@
 ||iqpizza.openapp.link^
 ||iqpqoamhyccih.xyz^
 ||iqtest365.online^
+||iqtucudfff.com^
 ||iquirc.motionrc.com^
 ||iqyioj.harryanddavid.com^
 ||ir4.icu^
 ||ir8.lookinews.com^
 ||ir8.tegronews.com^
-||irate1x.xyz^
 ||irbysdeepcy.com^
 ||irc.qubiankeji.com^
 ||iready.curriculumassociates.com^
@@ -63122,7 +63110,6 @@
 ||mautic.teky.edu.vn^
 ||mautifasa.xyz^
 ||mauxyaeeefnrots.z21.web.core.windows.net^
-||mauzna.xyz^
 ||maven.aomg5bzv7.com^
 ||mavq.net^
 ||mawkggrbhsknuw.com^
@@ -65952,6 +65939,7 @@
 ||mmwlwm.autoscout24.pl^
 ||mmxshltodupdlr.xyz^
 ||mmz3.beinsports.com^
+||mn-tz.com^
 ||mn1nm.com^
 ||mn230126pb.com^
 ||mnaspm.com^
@@ -71093,7 +71081,6 @@
 ||pahtzh.tech^
 ||paibauwho.com^
 ||paid.outbrain.com^
-||paiena.xyz^
 ||paiglumousty.net^
 ||paihfzqlznxdn.online^
 ||paikoasa.tv^
@@ -73118,7 +73105,6 @@
 ||porpoise.azettl.net^
 ||porpoise.fruittreecottage.com.au^
 ||porpoise.kristinholl.com^
-||porpoise.numberzs.com^
 ||porqhi.topictravel.nl^
 ||porsche.nabooda-auto.com^
 ||port7.xhamster.com^
@@ -75100,6 +75086,7 @@
 ||qsearch-a.akamaihd.net^
 ||qservz.com^
 ||qsko05060mas.com^
+||qsko05061mas.com^
 ||qskxpvncyjly.com^
 ||qsmnt.online^
 ||qsoc.cn^
@@ -75134,7 +75121,6 @@
 ||quaizoa.xyz^
 ||qualaroo.com^
 ||qualiclicks.com^
-||qualification2.fun^
 ||qualificationsomehow.com^
 ||qualifyglance.com^
 ||qualifyundeniable.com^
@@ -75919,7 +75905,6 @@
 ||recommender-launcher.hismarttv.com^
 ||recompensecombinedlooks.com^
 ||reconcilewaste.com^
-||recondite1x.xyz^
 ||reconnectconsistbegins.com^
 ||reconstructcomparison.com^
 ||reconstructshutdown.com^
@@ -81293,6 +81278,7 @@
 ||shimpooy.com^
 ||shinasi.info^
 ||shindleabv.shop^
+||shindnx.site^
 ||shindyhygienic.com^
 ||shindystubble.com^
 ||shinebliss.com^
@@ -91104,7 +91090,6 @@
 ||tarotaffirm.com^
 ||tarsier.emitremmus.com^
 ||tarsier.kriterie.se^
-||tarsier.webcrafters.co^
 ||tarsiusbaconic.com^
 ||tartarsharped.com^
 ||tartator.com^
@@ -91561,7 +91546,6 @@
 ||ternletspurns.top^
 ||terraclicks.com^
 ||terradatum.actonservice.com^
-||terranewsblast.com^
 ||terrapush.com^
 ||terrasdsdstd.com^
 ||terribledeliberate.com^
@@ -97853,7 +97837,6 @@
 ||usbmodmenu.com^
 ||usbrowserspeed.com^
 ||usdbbx.mmartan.com.br^
-||usdtaz.xyz^
 ||use-application-dns.net^
 ||use-cr.svr-algorix.com^
 ||use.fvr.to^
@@ -99248,7 +99231,6 @@
 ||vitor304apt.com^
 ||vitqzd.icu^
 ||vitrine.lugarcerto.com.br^
-||vitrinler3.com^
 ||viu.actonservice.com^
 ||viu.viubyhub.com^
 ||viurl.fun^
@@ -101352,7 +101334,6 @@
 ||worersie.com^
 ||work.construction.com^
 ||work.gd^
-||workable1x.xyz^
 ||workback.net^
 ||workedqtam.com^
 ||workedworlds.com^
@@ -104402,6 +104383,7 @@
 ||ygecho.wenz.de^
 ||ygeqiky.com^
 ||yggtorrent.com^
+||yghalathio.com^
 ||ygipjqf.icu^
 ||ygmkcuj3v.com^
 ||ygmpia.worten.pt^
@@ -104958,7 +104940,6 @@
 ||zaiteegraity.net^
 ||zaiuhu.vacatia.com^
 ||zaizaigut.net^
-||zajh3a.xyz^
 ||zajukrib.net^
 ||zakelijke-betalingsoplossingen.americanexpress.nl^
 ||zakelijke-oplossingen-nld.americanexpress.nl^
